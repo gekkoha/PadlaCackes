@@ -1,0 +1,614 @@
+
+body {
+    background-color: white;
+    margin: 0;
+}
+
+header {
+    background-image: url(/images/cupcake.jpg);
+    overflow: hidden;
+    height: 1284px;
+    color: white;
+}
+
+header h3 {
+    position: relative;
+    top: 27px;
+    left: 370px;
+    font-family: "Montserrat", serif;
+    font-weight: 600;
+}
+
+.locate {
+    position: relative;
+    left: 1136px;
+    top: -50px;
+    font-family: "Montserrat", serif;
+    font-weight: 200;
+
+}
+
+.locateicon {
+    position: relative;
+    right: 25px;
+    top: 40px;
+}
+
+.number {
+    font-family: "Montserrat", serif;
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+}
+
+.contact {
+    position: relative;
+    left: 1319px;
+    top: -125px;
+}
+
+.locateicon2 {
+    position: relative;
+    left: -5px;
+    top: 15px;
+}
+
+.contact p {
+    position: relative;
+    left: 40px;
+    bottom: 10px;
+    font-family: "Montserrat", serif;
+    font-weight: 100px;
+    font-size: 12px;
+}
+
+.line {
+    position: relative;
+    bottom: 130px;
+    border-bottom: 1px solid #7e868e2c;
+}
+
+.sellhead {
+    position: relative;
+    bottom: 400px;
+    left: 370px;
+    font-family: "Montserrat", serif;
+}
+
+.sellhead h4 {
+    background-color: #F2F6FA;
+    height: 37px;
+    width: 137px;
+    border-radius: 5px;
+}
+
+.sellhead h3 {
+    color: #2E363E;
+    position: relative;
+    top: 48px;
+    left: 21px;
+    font-weight: 400;
+    font-size: 11px;
+}
+
+.sellhead h1 {
+    font-size: 48px;
+}
+
+.sellheadP {
+    font-size: 25px;
+    font-weight: 200;
+}
+
+.catalogbuttonbg {
+    width: 277px;
+    height: 88px;
+    border-radius: 8px;
+    color: #2E363E;
+    font-family: "Montserrat", serif;
+    font-size: 18px;
+    background-color: #FED84C;
+}
+
+.leafIMG {
+    position: relative;
+    right: 900px;
+    top: 700px;
+}
+
+.berryIMG1 {
+    transform: rotate(100deg);
+    position: relative;
+    right: 100px;
+    bottom: 180px;
+}
+
+.berryIMG2 {
+    position: relative;
+    left: 1000px;
+    top: 500px;
+}
+
+.berryIMG3 {
+    transform: rotate(170deg);
+    position: relative;
+    left: 1170px;
+    bottom: 280px;
+}
+
+main h2 {
+    font-family: "Montserrat", serif;
+    font-weight: 500;
+    font-size: 44px;
+    color: #2E363E;
+    position: relative;
+    left: 430px;
+    width: 1180px;
+    height: 120px;
+
+}
+
+.card1 {
+    box-shadow: 2px 8px 16px #C2C6D0;
+    border-radius: 10px;
+    font-family: "Montserrat", serif;
+    position: relative;
+    left: 370px;
+    width: 380px;
+    height: 606px;
+}
+
+.card2 {
+    font-family: "Montserrat", serif;
+    position: relative;
+    left: 770px;
+    bottom:606px ;
+    width: 380px;
+    height: 606px;
+    box-shadow: 2px 8px 16px #C2C6D0;
+    border-radius: 10px;
+}
+
+.card3 {
+    font-family: "Montserrat", serif;
+    position: relative;
+    left: 1170px;
+    width: 380px;
+    bottom: 1212px;
+    height: 606px;
+    box-shadow: 2px 8px 16px #C2C6D0;
+    border-radius: 10px;
+}
+
+.card4 {
+    font-family: "Montserrat", serif;
+    position: relative;
+    left: 370px;
+    bottom: 1200px;
+    width: 380px;
+    height: 606px;
+    margin-top: 20px;
+    box-shadow: 2px 8px 16px #C2C6D0;
+    border-radius: 10px;
+}
+
+.card5 {
+    font-family: "Montserrat", serif;
+    position: relative;
+    left: 770px;
+    width: 380px;
+    bottom: 1806px;
+    height: 606px;
+    box-shadow: 2px 8px 16px #C2C6D0;
+    border-radius: 10px;
+}
+
+.card6 {
+    bottom: 000px;
+    font-family: "Montserrat", serif;
+    position: relative;
+    left: 1170px;
+    width: 380px;
+    bottom: 2412px;
+    height: 606px;
+    box-shadow: 2px 8px 16px #C2C6D0;
+    border-radius: 10px;
+}
+.card7 {
+    font-family: "Montserrat", serif;
+    position: relative;
+    left: 370px;
+    bottom: 2400px;
+    width: 380px;
+    height: 606px;
+    margin-top: 20px;
+    box-shadow: 2px 8px 16px #C2C6D0;
+    border-radius: 10px;
+}
+
+.card8 {
+    font-family: "Montserrat", serif;
+    position: relative;
+    left: 770px;
+    width: 380px;
+    bottom: 3006px;
+    height: 606px;
+    box-shadow: 2px 8px 16px #C2C6D0;
+    border-radius: 10px;
+}
+
+.card9 {
+    bottom: 000px;
+    font-family: "Montserrat", serif;
+    position: relative;
+    left: 1170px;
+    width: 380px;
+    bottom: 3612px;
+    height: 606px;
+    box-shadow: 2px 8px 16px #C2C6D0;
+    border-radius: 10px;
+}
+.btnbuy {
+    background-color: #FED84C;
+    margin-left: 44px;
+    color: #2E363E;
+    width: 163px;
+    height: 68px;
+    font-family: "Montserrat", serif;
+    border-radius: 8px; 
+    font-size: 18px;
+    font-weight: 500;
+}
+.c1 {
+    margin-left: 44px;
+    color: #2E363E;
+    font-family: "Montserrat", serif;
+    font-size: 24px;
+}
+.c2 {
+    margin-left: 44px;
+    color: #2E363E;
+    font-family: "Montserrat", serif;
+    font-size: 16px;
+    font-weight: 300;
+}
+.c3 {
+    margin-left: 44px;
+    color: #434B53;
+    font-family: "Montserrat", serif;
+    font-size: 22px;
+    font-weight: 600;
+}
+.chast3 {
+    position: relative;
+    z-index: -1;
+    height: 1352px;
+    background-color: #081130;
+}
+.oblako2 {
+    position: relative;
+    bottom: 1010px;
+    width: 1900px;
+}
+.oblako1 {
+    position: relative;
+    width: 1900px;
+}
+.btn2 {
+    background-color: #FED84C;
+    color: #2E363E;
+    width: 343px;
+    height: 88px;
+    font-family: "Montserrat", serif;
+    border-radius: 8px; 
+    font-size: 18px;
+    font-weight: 500;
+}
+.chast3text {
+    width: 481px;
+    height: 514px;
+    position: relative;
+    bottom: 940px;
+    left: 1100px;
+}
+.leaf2 {
+    position: relative;
+    bottom: 790px;
+    right: 680px;
+}
+.berry4 {
+    position: relative;
+    bottom: 900px;
+    left: 500px;
+    scale: 70%;
+}
+.bgchast3 {
+    background-color: #F2F6FA;
+    color:#F2F6FA ;
+    width: 263px;
+    height: 37px;
+    border-radius: 5px;
+}
+.chast3text h5 {
+    position: relative;
+    top: 50px;
+    left: 20px;
+    font-size: 14px;
+    font-weight: 300;
+    font-family: "Montserrat", serif;
+}
+.chast3text h1 {
+    color: white;
+    font-family: "Montserrat", serif;
+    font-size: 48px;
+    font-weight: 400;
+}
+.chast3text p {
+    font-family: "Montserrat", serif;
+    font-weight: 300;
+    font-size: 21px;
+    color: white;
+    margin-top: -20px;
+}
+.chast2 {
+    height: 1926px;
+}
+.chast4 {
+    height: 830px;
+}
+.text11{
+    position: relative;
+
+}
+.woman {
+    position: relative;
+    bottom:637px ;
+    left: 962px;
+}
+.leftside {
+    position: relative;
+    left: 362px;
+    width: 580px;
+    height: 637px;
+    top: 80px;
+}
+.leftside h3 {
+    position: relative;
+    width: 580px;
+    height: 180px;
+    font-family: "Montserrat", serif;
+    font-size: 44px;
+    font-weight: 440;
+    color: #2E363E;
+}
+.who {
+    position: relative;
+    top: 30px;
+}
+.name {
+    position: relative;
+    bottom: 780px;
+    left: 320px;
+}
+.listik {
+    position: relative;
+    bottom: 1070px;
+    left: 120px;
+    z-index: -1;
+}
+.malinka{
+    position: relative;
+    bottom: 1080px;
+    left: 100px;
+    z-index: -1;
+
+}
+.chast5 {
+    background-color: #081130;
+    height: 1505px;
+}
+.oblako4 {
+    width: 1900px;
+    position: relative;
+   bottom: 330px;
+}
+.oblako3 {
+    width: 1900px;
+}
+.chast5 h1 {
+    width: 1180px;
+    height: 60px;
+    font-family: "Montserrat", serif;
+    font-size: 48px;
+    color: white;
+    font-weight: 500;
+    position: relative;
+    left: 480px;
+}
+.FB1, .FB3 {
+    opacity: 10%;
+}
+.arrows {
+    position: relative;
+    left: 850px;
+    bottom: 120px;
+}
+.mal1 {
+    transform: rotate(268deg);
+    position: relative;
+    bottom: 800px;
+    left: 50px;
+}
+.list1 {
+    position: relative;
+    left: 1040px;
+    bottom: 170px;
+    transform: rotate(268deg);
+}
+footer {
+    height: 912px;
+    background-color: #081130;
+}
+.oblako5 {
+    width: 1900px;
+}
+.block {
+    background-color: white;
+    color: white;
+    width: 1180px;
+    height: 442px;
+    border-radius: 5px;
+    position: relative;
+    left: 370px;
+}
+.bgtel {
+    background-color: #F2F6FA;
+    color: #F2F6FA;
+    border-radius: 8px;
+    position: relative;
+    bottom: 435px;
+    left: 610px;
+    width: 380px;
+    height: 85px;
+}
+.phone-input {
+    display: flex;
+    align-items: center;
+    border-radius: 6px; /* Скругленные углы */
+    padding: 8px 12px;
+    width: 250px; /* Ширина поля */
+    position: relative;
+    bottom: 515px;
+    left: 630px;
+  }
+  
+  .phone-input .icon {
+    margin-right: 8px;
+    color: #909090; /* Цвет иконки */
+  }
+  
+  .phone-input input {
+    border: none;
+    outline: none;
+    background: transparent;
+    flex-grow: 1;
+    font-size: 18px;
+    color: #333; /* Цвет текста */
+  }
+  
+  .phone-input input::placeholder {
+    color: #b0b0b0; /* Цвет текста подсказки */
+  }
+  
+  
+  .block2 h1 {
+    color: #2E363E;
+    width: 880px;
+    height: 96px;
+    font-size: 36px;
+    font-weight: 700;
+    font-family: "Montserrat", serif;
+    position: relative;
+    left: 520px;
+    bottom: 446px;
+    text-align: center
+  }
+  .block2 p {
+    font-family: "Montserrat", serif;
+    font-size: 21px;
+    width: 880px;
+    height: 31px;
+    color: #2E363E;
+    position: relative;
+    font-weight: 300;
+    bottom: 450px;
+    left: 560px;
+  }
+#b {
+    position: relative;
+    left: 1050px;
+    bottom: 580px;
+}
+.checkbox-container {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    color: #333; /* Цвет текста */
+    cursor: pointer;
+    font-family: "Montserrat", serif;
+    font-size: 10px;
+    position: relative;
+    left: 700px;
+    width: 600px ;
+    bottom: 570px;
+  }
+  
+  .checkbox-container input {
+    display: none; /* Скрываем стандартный чекбокс */
+  }
+  
+  .checkbox-container .checkmark {
+    width: 16px;
+    height: 16px;
+    border: 2px solid #007bff; /* Цвет рамки */
+    border-radius: 4px; /* Скругленные углы */
+    margin-right: 8px; /* Отступ от текста */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .checkbox-container .checkmark::after {
+    content: "";
+    display: none;
+    width: 8px;
+    height: 8px;
+    background-color: #007bff; /* Цвет галочки */
+    border-radius: 2px;
+  }
+  
+  .checkbox-container input:checked + .checkmark::after {
+    display: block; /* Показываем галочку, если чекбокс выбран */
+  }
+.pepshki {
+    font-family: "Montserrat", serif;
+    color: #7E868E;
+    font-size: 12px;
+    position: relative;
+    bottom: 440px;
+}
+.p1 {
+    position: relative;
+    bottom: 10px;
+    left: 650px;
+    width: 300px;
+}
+.p2 {
+    position: relative;
+    bottom: 37px;
+    left: 850px;
+    width: 300px;
+}
+.p3 {
+    position: relative;
+    bottom: 64px;
+    left: 1050px;
+    width: 300px;
+}
+.p4 {
+    position: relative;
+    bottom: 57px;
+    left: 830px;
+width: 300px;
+}
+#fsd {
+    position: relative;
+    bottom: 1100px;
+    left: 200px;
+}
+#f2d {
+    position: relative;
+    transform: rotate(90deg);
+    bottom: 900px;
+    left: 1300px;
+}
